@@ -1,0 +1,27 @@
+7 segment display
+
+Top servo- 0 channel
+70 up, 170 down
+
+Right up servo-1 channel
+120 up, 20 down
+
+
+Right down servo-4 channel
+150 up, 50 down
+
+
+left down servo-9 channel
+0 up, 100 down
+ 
+
+Bottom servo-11 channel
+150 up, 50 down
+
+
+center servo-5 channel
+50 up, 150 down
+
+
+left up servo-8 channel
+50 up, 150 down
