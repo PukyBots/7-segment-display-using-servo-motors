@@ -46,6 +46,10 @@ The project controls multiple servo motors simultaneously to form numeric patter
 - External Power Supply
 - Jumper Wires
 
+<div align="center">
+  <img src="images/connection_diag.png" width="600" height="400">
+</div>
+
 ---
 
 ## 💻 Software Used
