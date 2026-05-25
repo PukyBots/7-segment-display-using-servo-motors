@@ -7,6 +7,12 @@ The project controls multiple servo motors simultaneously to form numeric patter
   <img src="images/display.gif" width="400">
 </div>
 
+<br></br>
+
+<div align="center">
+  <img src="images/user.gif" width="400">
+</div>
+
 ---
 
 ## 📱 Features
@@ -21,13 +27,13 @@ The project controls multiple servo motors simultaneously to form numeric patter
 
 
 <div align="center">
-  <img src="images/display1.HEIC" width="400">
+  <img src="images/display1.png" width="400">
 </div>
 
 <br></br>
 
 <div align="center">
-  <img src="images/display2.HEIC" width="400">
+  <img src="images/display2.png" width="400">
 </div>
 
 ---
