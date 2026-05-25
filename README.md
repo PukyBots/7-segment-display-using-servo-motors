@@ -127,4 +127,6 @@ The project controls multiple servo motors simultaneously to form numeric patter
 
 **Pulkit Garg**
 
+Contribution made by Yenepoya university student Nasreena Nishana as well.
+
 ---
